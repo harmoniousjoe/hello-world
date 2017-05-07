@@ -8,3 +8,5 @@ I know that we do not yet know each other, but I take issue with your example me
 But that day is not today. 
 
 - El Taco Patron. 
+
+Forgot to add a Commit Message the first time through...
